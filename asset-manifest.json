@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.34003f78.chunk.css",
-    "main.js": "/static/js/main.d5e41c9d.chunk.js",
-    "main.js.map": "/static/js/main.d5e41c9d.chunk.js.map",
+    "main.css": "/static/css/main.e479c9fa.chunk.css",
+    "main.js": "/static/js/main.632a248b.chunk.js",
+    "main.js.map": "/static/js/main.632a248b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b240f91f.js",
     "runtime-main.js.map": "/static/js/runtime-main.b240f91f.js.map",
     "static/css/2.7abef457.chunk.css": "/static/css/2.7abef457.chunk.css",
     "static/js/2.ae2b4381.chunk.js": "/static/js/2.ae2b4381.chunk.js",
     "static/js/2.ae2b4381.chunk.js.map": "/static/js/2.ae2b4381.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd1c741feee14791ce8bc740efeaa342.js": "/precache-manifest.bd1c741feee14791ce8bc740efeaa342.js",
+    "precache-manifest.075add3f644660fa7041ef39f40cf5d0.js": "/precache-manifest.075add3f644660fa7041ef39f40cf5d0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.34003f78.chunk.css.map": "/static/css/main.34003f78.chunk.css.map",
+    "static/css/main.e479c9fa.chunk.css.map": "/static/css/main.e479c9fa.chunk.css.map",
     "static/media/bengali_ocr.png": "/static/media/bengali_ocr.d267bb71.png",
     "static/media/bg.jpg": "/static/media/bg.68499b31.jpg",
     "static/media/biochip.png": "/static/media/biochip.73fe9007.png",
@@ -27,7 +27,7 @@
     "static/media/kth.png": "/static/media/kth.e3bd4b4d.png",
     "static/media/malaria.png": "/static/media/malaria.f551583d.png",
     "static/media/mark.png": "/static/media/mark.248448f7.png",
-    "static/media/me.jpg": "/static/media/me.f23a5524.jpg",
+    "static/media/me.jpg": "/static/media/me.5afb0d42.jpg",
     "static/media/mysql.png": "/static/media/mysql.39fcf00a.png",
     "static/media/node.jpeg": "/static/media/node.e6da942e.jpeg",
     "static/media/opencv.png": "/static/media/opencv.0267a36f.png",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.b240f91f.js",
     "static/css/2.7abef457.chunk.css",
     "static/js/2.ae2b4381.chunk.js",
-    "static/css/main.34003f78.chunk.css",
-    "static/js/main.d5e41c9d.chunk.js"
+    "static/css/main.e479c9fa.chunk.css",
+    "static/js/main.632a248b.chunk.js"
   ]
 }
